@@ -36,13 +36,13 @@ In the age of ever-evolving cybersecurity threats, phishing attacks remain a pro
 
 ## Installation
 1. Clone the repository:
-   ```sh
+   ```
    git clone https://github.com/Nadro-J/pelagic-trawler
    cd pelagic-trawler
    ```
 
 2. Install the required Python libraries:
-    ```sh
+    ```
     pip3 install -r requirements.txt
     ```
 
@@ -57,8 +57,8 @@ In the age of ever-evolving cybersecurity threats, phishing attacks remain a pro
 
 
 ## Usage
-Run the script
-    ```sh
+Run the script:
+    ```
     python3 peladic.py
     ```
 
