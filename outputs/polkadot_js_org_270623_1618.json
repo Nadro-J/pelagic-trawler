@@ -1,0 +1,2272 @@
+[
+    {
+        "fuzzer": "*original",
+        "domain": "polkadot.js.org",
+        "dns_a": [
+            "104.26.8.84"
+        ],
+        "dns_aaaa": [
+            "2606:4700:20::681a:854"
+        ]
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot0.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot1.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot2.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot3.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot4.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot5.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot6.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot7.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot8.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadot9.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadota.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotb.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotc.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotd.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadote.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotf.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotg.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadoth.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadoti.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotj.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotk.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotl.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotm.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotn.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadoto.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotp.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotq.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotr.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadots.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadott.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotu.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotv.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotw.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotx.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadoty.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "addition",
+        "domain": "polkadotz.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "0olkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pglkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pklkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pmlkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pnlkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "podkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pohkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "poliadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "poljadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadgt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadkt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadmt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadnt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkado4.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadod.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadop.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadou.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkadov.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkaeot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkafot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkalot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkatot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkcdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkedot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkidot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "polkqdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "poloadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "pomkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "ponkadot.js.org",
+        "dns_ns": [
+            "!ServFail"
+        ],
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "qolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "rolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "tolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "bitsquatting",
+        "domain": "xolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkaclot.js.org",
+        "dns_ns": [
+            "!ServFail"
+        ],
+        "dns_a": [
+            "!ServFail"
+        ]
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p01kad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p01kadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0ikad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0ikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0likad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0likadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkab0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkaclot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkadl0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0llcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0llkad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "p0llkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po11cadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po11kadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1ikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kac1ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kaclot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kad1ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1kadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1lcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "po1lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poiicadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poiikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikaciot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikaclot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikadiot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poilcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poilkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pol1cadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pol1kadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "policadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "poliikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polikabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polikaclot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polikad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polikadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polilcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polilkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkab0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkablot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkac1ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkaciot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkacl0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkacllot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkad1ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkadiot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkadl0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkadllot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkaelot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polkalbot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollcabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollcad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollcadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polleadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollikadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollkabot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollkaclot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollkad0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollkadlot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "pollkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polllcadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "homoglyph",
+        "domain": "polllkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "p-olkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "po-lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "pol-kadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "polk-adot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "polka-dot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "polkad-ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "hyphenation",
+        "domain": "polkado-t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "p0olkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "p9olkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "piolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pkolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "plolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "po0lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "po9lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "poklkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "poljkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polk1adot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polk2adot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polka1dot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polka2dot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkacdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkad0ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkad9ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadcot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadeot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadfot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadkot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkado0t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkado9t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadoit.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadokt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadolt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadopt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadpot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadrot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadsot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkadxot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkaedot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkafdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkaqdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkardot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkasdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkawdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkaxdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkaydot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkazdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkiadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkjadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkladot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkmadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkoadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkqadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polksadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkwadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkyadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polkzadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polmkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polokadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "polpkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "pomlkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "poolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "poplkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "insertion",
+        "domain": "ppolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "olkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "plkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "pokadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "poladot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "polkado.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "polkadt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "polkaot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "omission",
+        "domain": "polkdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "polkaadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "polkaddot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "repetition",
+        "domain": "polkadoot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkarot.js.org",
+        "dns_ns": [
+            "!ServFail"
+        ],
+        "dns_a": [
+            "!ServFail"
+        ]
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "lolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "molkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "oolkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "p9lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pilkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pllkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pokkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polk1dot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polk2dot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkacot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkad9t.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadit.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadlt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkado5.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkado6.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadof.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadog.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkador.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadoy.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadoz.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkadpt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkasot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkaxot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polksdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkwdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkydot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polkzdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polladot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "polmadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pookadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "popkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "replacement",
+        "domain": "pplkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "p.olkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "po.lkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "pol.kadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "polk.adot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "polka.dot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "subdomain",
+        "domain": "polkad.ot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "oplkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "plokadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "pokladot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "polakdot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "polkadto.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "polkaodt.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "transposition",
+        "domain": "polkdaot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "various",
+        "domain": "polkadotjs.org",
+        "dns_ns": [
+            "ns1.abovedomains.com"
+        ],
+        "dns_a": [
+            "103.224.182.242"
+        ],
+        "dns_mx": [
+            "park-mx.above.com"
+        ],
+        "mx_spy": true,
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "various",
+        "domain": "polkadot.org",
+        "dns_ns": [
+            "dee.ns.cloudflare.com"
+        ],
+        "dns_a": [
+            "104.21.60.53"
+        ],
+        "dns_aaaa": [
+            "2606:4700:3034::ac43:c072"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "palkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "pelkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "polkadat.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "polkadet.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "polkadut.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "polkodot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "polkudot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    },
+    {
+        "fuzzer": "vowel-swap",
+        "domain": "pulkadot.js.org",
+        "dns_a": [
+            "162.0.217.23"
+        ],
+        "ssdeep": 0
+    }
+]

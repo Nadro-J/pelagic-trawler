@@ -1,0 +1,2 @@
+dnstwist==20230413
+PyYAML==6.0
